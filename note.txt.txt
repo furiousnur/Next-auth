@@ -1,0 +1,4 @@
+user: admin
+password: admin
+
+website link: https://next-auth-coral.vercel.app/
